@@ -1,0 +1,25 @@
+.admin_title{
+	background-color: #530602;
+	color: white;
+	text-align: center;
+	margin: 0px 50px;
+	height: 140px;
+	line-height: 140px;
+}
+.admin_details{
+	background-color:skyblue;
+	color: white;
+	width: 93.5%;
+	margin: 0px 50px;
+	font-size: large;
+	height: 140px;
+	}
+	table tr td a{
+		text-decoration: none;
+	}
+	table tr td img{
+	position: absolute;
+    right: 189px;
+    top: 245px;
+	}
+	
